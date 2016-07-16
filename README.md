@@ -21,7 +21,7 @@ All the information is listed on the first line, and a `#` or a `$` on the next 
 1. Download the theme file:
 
 ```bash
-wget https://raw.githubusercontent.com/shark0der/shark-theme-oh-my-zsh/master/shark.zsh-theme -O $ZSH_CUSTOM/themes/shark/shark.zsh-theme
+wget https://raw.githubusercontent.com/shark0der/shark-theme-oh-my-zsh/master/shark.zsh-theme -O $ZSH_CUSTOM/themes/shark.zsh-theme
 ```
 
 2. Configure the theme in your **~/.zshrc** file:
