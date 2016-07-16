@@ -4,7 +4,7 @@ Shark is a [oh-my-zsh shell](https://github.com/robbyrussell/oh-my-zsh)
 theme based on ys by Yad Smood
 
 It currently shows:
-- Current user, with a yellow background if the user is privileged
+- Current user, in yellow if the user is privileged
 - Current directory
 - Git branch and a minimal status (clean or dirty)
 - Exit code of last command
