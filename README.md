@@ -31,5 +31,9 @@ All the information is listed on the first line, and a `#` or a `$` on the next 
   ZSH_THEME="shark"
   ```
 
+## Issues and contributions
+
+If you find any bugs, please fill a issue. Pull requests are welcome :)
+
 ## License
 The MIT License (MIT)
