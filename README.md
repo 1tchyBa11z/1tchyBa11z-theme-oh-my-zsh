@@ -14,22 +14,21 @@ All the information is listed on the first line, and a `#` or a `$` on the next 
 
 ## Preview
 
-![Preview](https://raw.github.com/shark0der/shark-oh-my-zsh-theme/master/preview.png)
+![Preview](https://raw.githubusercontent.com/shark0der/shark-theme-oh-my-zsh/master/preview.png)
 
 ## Installing
 
 1. Download the theme file:
 
 ```bash
-wget https://raw.github.com/shark0der/shark-oh-my-zsh-theme/master/shark.zsh-theme -O $ZSH_CUSTOM/themes/shark/shark.zsh-theme
+wget https://raw.githubusercontent.com/shark0der/shark-theme-oh-my-zsh/master/shark.zsh-theme -O $ZSH_CUSTOM/themes/shark/shark.zsh-theme
 ```
 
 2. Configure the theme in your **~/.zshrc** file:
 
 ```bash
-ZSH_THEME="bullet-train"
+ZSH_THEME="shark"
 ```
 
 ## License
 The MIT License (MIT)
-
