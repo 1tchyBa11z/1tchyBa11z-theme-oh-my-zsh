@@ -20,15 +20,16 @@ All the information is listed on the first line, and a `#` or a `$` on the next 
 
 1. Download the theme file:
 
-```bash
-wget https://raw.githubusercontent.com/shark0der/shark-theme-oh-my-zsh/master/shark.zsh-theme -O $ZSH_CUSTOM/themes/shark.zsh-theme
-```
+  ```bash
+  mkdir -p $ZSH_CUSTOM/themes
+  wget https://raw.githubusercontent.com/shark0der/shark-theme-oh-my-zsh/master/shark.zsh-theme -O $ZSH_CUSTOM/themes/shark.zsh-theme
+  ```
 
 2. Configure the theme in your **~/.zshrc** file:
 
-```bash
-ZSH_THEME="shark"
-```
+  ```bash
+  ZSH_THEME="shark"
+  ```
 
 ## License
 The MIT License (MIT)
