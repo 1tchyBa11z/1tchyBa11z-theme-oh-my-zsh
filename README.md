@@ -9,9 +9,9 @@ It currently shows:
 - Current directory
 - Git branch and a minimal status (clean or dirty)
 - Exit code of last command
-- On a new line, a `#` or a `$` depending on the user's privileges
+- On a new line, a `#` or a `λ` depending on the user's privileges
 
-All the information is listed on the first line, and a `#` or a `$` on the next line which gives you plenty of space to write your commands without line wrapping.
+All the information is listed on the first line, and a `#` or a `λ` on the next line which gives you plenty of space to write your commands without line wrapping.
 
 ## Preview
 
