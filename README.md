@@ -2,6 +2,7 @@
 
 Shark is a [oh-my-zsh shell](https://github.com/robbyrussell/oh-my-zsh)
 theme based on ys by Yad Smood
+forked from shark0der
 
 It currently shows:
 - Current user, in yellow if the user is privileged
@@ -14,7 +15,7 @@ All the information is listed on the first line, and a `#` or a `$` on the next 
 
 ## Preview
 
-![Preview](https://raw.githubusercontent.com/shark0der/shark-theme-oh-my-zsh/master/preview.png)
+![Preview](https://raw.githubusercontent.com/1tchyBa11z/1tchyBa11z-theme-oh-my-zsh/master/preview.png)
 
 ## Installing
 
@@ -22,13 +23,13 @@ All the information is listed on the first line, and a `#` or a `$` on the next 
 
   ```bash
   mkdir -p $ZSH_CUSTOM/themes
-  wget https://raw.githubusercontent.com/shark0der/shark-theme-oh-my-zsh/master/shark.zsh-theme -O $ZSH_CUSTOM/themes/shark.zsh-theme
+  wget https://raw.githubusercontent.com/1tchyBa11z/1tchyBa11z-theme-oh-my-zsh/master/1tchyBa11z.zsh-theme -O $ZSH_CUSTOM/themes/1tchyBa11z.zsh-theme
   ```
 
 2. Configure the theme in your **~/.zshrc** file:
 
   ```bash
-  ZSH_THEME="shark"
+  ZSH_THEME="1tchyBa11z"
   ```
 
 ## Issues and contributions

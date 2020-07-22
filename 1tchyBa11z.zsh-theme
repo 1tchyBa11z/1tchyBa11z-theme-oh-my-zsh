@@ -2,8 +2,8 @@
 # It is recommended to use with a dark background.
 # Colors: black, red, green, yellow, *blue, magenta, cyan, and white.
 # Based on ys theme by Yad Smood
-#
-# Jul 2016 shark0der
+# based on shark theme by shark0der
+# Jul 2020 1tchyba11z
 
 # Git info
 local git_info='$(git_prompt_info)'
@@ -35,4 +35,4 @@ PROMPT="\
 %{$fg[blue]%}%r%~%{$reset_color%}\
 ${git_info} \
 %{$fg[white]%} $exit_code
-%{$terminfo[bold]$fg[red]%}%(#,#,$) %{$reset_color%}"
+%{$terminfo[bold]$fg[red]%}%(#,#,λ) %{$reset_color%}"
