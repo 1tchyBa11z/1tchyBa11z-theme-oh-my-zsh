@@ -17,6 +17,8 @@ All the information is listed on the first line, and a `#` or a `λ` on the next
 
 ![Preview](https://raw.githubusercontent.com/1tchyBa11z/1tchyBa11z-theme-oh-my-zsh/master/preview.png)
 
+NOTE: Preview image using qterminal with GreenOnBlack color scheme.
+
 ## Installing
 
 1. Download the theme file:
