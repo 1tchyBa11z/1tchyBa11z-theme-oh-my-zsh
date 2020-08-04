@@ -1,6 +1,6 @@
-# Shark theme for oh-my-zsh
+# 1tchyBa11z theme for oh-my-zsh
 
-Shark is a [oh-my-zsh shell](https://github.com/robbyrussell/oh-my-zsh)
+1tchyBa11z is a [oh-my-zsh shell](https://github.com/robbyrussell/oh-my-zsh)
 theme based on ys by Yad Smood
 forked from shark0der
 
